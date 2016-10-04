@@ -14,7 +14,7 @@ from email.MIMEText import MIMEText
 from email.MIMEBase import MIMEBase
 from email import encoders
 
-fromaddr = "jarrensj@gmail.com"           #sender email 
+fromaddr = "jarren@jarrensj.com"           #sender email 
 password = "password"                     #sender email password
 
 toaddr = "jarren@jarrensj.com"            #recipient
